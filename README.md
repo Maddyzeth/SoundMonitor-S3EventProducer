@@ -18,6 +18,6 @@ Associate the project with sonarCloud (Set the token) and update sonar propertie
 
 ## Step 4
 
-Start deploy   
+Start deploy.
 
 
